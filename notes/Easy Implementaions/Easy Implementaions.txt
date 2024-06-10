@@ -1,0 +1,10 @@
+for SpyHuner:
+
+Create a shoot/ attack method for the vehice
+
+Create a few enemy objects / sprites. have them enter screen avove/below player
+
+create obstacles (oil,slick,trees,consruciton) taht spaw in from top of screen
+
+//Could create
+boss 

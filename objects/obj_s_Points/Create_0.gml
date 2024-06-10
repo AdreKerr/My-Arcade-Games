@@ -1,0 +1,2 @@
+//varaibles
+points = 0;
