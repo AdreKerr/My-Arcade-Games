@@ -3,13 +3,5 @@
     {"name":"Spy Hunter Objects","order":1,"path":"folders/Objects/Spy Hunter Objects.yy",},
     {"name":"Spy Hunter Sprites","order":1,"path":"folders/Sprites/Spy Hunter Sprites.yy",},
   ],
-  "ResourceOrderSettings":[
-    {"name":"obj_fs_Intro_Screen","order":1,"path":"objects/obj_fs_Intro_Screen/obj_fs_Intro_Screen.yy",},
-    {"name":"obj_pm_Points","order":1,"path":"objects/obj_pm_Points/obj_pm_Points.yy",},
-    {"name":"obj_sh_Player","order":2,"path":"objects/obj_sh_Player/obj_sh_Player.yy",},
-    {"name":"obj_sh_Road","order":1,"path":"objects/obj_sh_Road/obj_sh_Road.yy",},
-    {"name":"room_sh_Spy_Hunter","order":1,"path":"rooms/room_sh_Spy_Hunter/room_sh_Spy_Hunter.yy",},
-    {"name":"spr_sh_Ground","order":1,"path":"sprites/spr_sh_Ground/spr_sh_Ground.yy",},
-    {"name":"spr_sh_Player","order":2,"path":"sprites/spr_sh_Player/spr_sh_Player.yy",},
-  ],
+  "ResourceOrderSettings":[],
 }

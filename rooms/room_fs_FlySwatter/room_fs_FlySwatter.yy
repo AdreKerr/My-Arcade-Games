@@ -32,8 +32,8 @@
   ],
   "name":"room_fs_FlySwatter",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"Games I Made up",
+    "path":"folders/Rooms/Games I Made up.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -9,8 +9,8 @@
   "name":"obj_sh_Road",
   "overriddenProperties":[],
   "parent":{
-    "name":"Spy Hunter Objects",
-    "path":"folders/Objects/Spy Hunter Objects.yy",
+    "name":"Spy Hunter",
+    "path":"folders/Objects/Spy Hunter.yy",
   },
   "parentObjectId":null,
   "persistent":false,
