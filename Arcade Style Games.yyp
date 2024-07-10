@@ -118,9 +118,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"room_fs_FlySwatter","path":"rooms/room_fs_FlySwatter/room_fs_FlySwatter.yy",},},
     {"roomId":{"name":"room_pm_Pac_Man","path":"rooms/room_pm_Pac_Man/room_pm_Pac_Man.yy",},},
     {"roomId":{"name":"room_sp_Spy_Hunter","path":"rooms/room_sp_Spy_Hunter/room_sp_Spy_Hunter.yy",},},
-    {"roomId":{"name":"room_fs_FlySwatter","path":"rooms/room_fs_FlySwatter/room_fs_FlySwatter.yy",},},
     {"roomId":{"name":"room_s_Snake","path":"rooms/room_s_Snake/room_s_Snake.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"room_f_Fishing","path":"rooms/room_f_Fishing/room_f_Fishing.yy",},},
