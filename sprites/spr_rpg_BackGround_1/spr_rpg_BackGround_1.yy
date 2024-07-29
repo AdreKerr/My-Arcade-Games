@@ -14,6 +14,7 @@
   "frames":[
     {"$GMSpriteFrame":"","%Name":"099a9441-15ba-4d65-923f-1f19f91f370c","name":"099a9441-15ba-4d65-923f-1f19f91f370c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"","%Name":"f2c91ea9-5d78-45f6-a06e-6ee842844758","name":"f2c91ea9-5d78-45f6-a06e-6ee842844758","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"d4ad372d-5a8c-42fe-b5ed-383a57b887ae","name":"d4ad372d-5a8c-42fe-b5ed-383a57b887ae","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -23,11 +24,12 @@
     {"$GMImageLayer":"","%Name":"25d9dd38-68da-46f9-9881-3414485e0f08","blendMode":0,"displayName":"BIG TREE 2","isLocked":false,"name":"25d9dd38-68da-46f9-9881-3414485e0f08","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"8fd8d475-cb98-4f05-96ce-7685829904f0","blendMode":0,"displayName":"houses","isLocked":false,"name":"8fd8d475-cb98-4f05-96ce-7685829904f0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"86d1019a-c5cd-4937-9f4c-5b4a944559d4","blendMode":0,"displayName":"bigTree1","isLocked":false,"name":"86d1019a-c5cd-4937-9f4c-5b4a944559d4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"68a242c4-28cf-430e-9fc7-aa47dd2784f1","blendMode":0,"displayName":"tree","isLocked":false,"name":"68a242c4-28cf-430e-9fc7-aa47dd2784f1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"d6778018-12a2-49d9-8b67-fcad92431407","blendMode":0,"displayName":"Mountion","isLocked":false,"name":"d6778018-12a2-49d9-8b67-fcad92431407","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"b9e8a101-3424-4091-9a33-8955193b9e85","blendMode":0,"displayName":"road","isLocked":false,"name":"b9e8a101-3424-4091-9a33-8955193b9e85","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"9a9edf9f-e337-42b2-ace3-784ac92e91e5","blendMode":0,"displayName":"tree","isLocked":false,"name":"9a9edf9f-e337-42b2-ace3-784ac92e91e5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"d6778018-12a2-49d9-8b67-fcad92431407","blendMode":0,"displayName":"Mountion","isLocked":false,"name":"d6778018-12a2-49d9-8b67-fcad92431407","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"fce6f5fb-68f3-4b5c-a34a-8a0c62e3ff2b","blendMode":0,"displayName":"water","isLocked":false,"name":"fce6f5fb-68f3-4b5c-a34a-8a0c62e3ff2b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"68a242c4-28cf-430e-9fc7-aa47dd2784f1","blendMode":0,"displayName":"grass","isLocked":false,"name":"68a242c4-28cf-430e-9fc7-aa47dd2784f1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"26a7edb9-312d-4f4f-a361-82a9569dddb6","blendMode":0,"displayName":"sky","isLocked":false,"name":"26a7edb9-312d-4f4f-a361-82a9569dddb6","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"9a9edf9f-e337-42b2-ace3-784ac92e91e5","blendMode":0,"displayName":"grass","isLocked":false,"name":"9a9edf9f-e337-42b2-ace3-784ac92e91e5","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_rpg_BackGround_1",
   "nineSlice":null,
@@ -57,7 +59,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":2.0,
+    "length":3.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -82,6 +84,9 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f2c91ea9-5d78-45f6-a06e-6ee842844758","path":"sprites/spr_rpg_BackGround_1/spr_rpg_BackGround_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"9896f5eb-8d8a-451f-8c44-d231a8ec0d0e","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d4ad372d-5a8c-42fe-b5ed-383a57b887ae","path":"sprites/spr_rpg_BackGround_1/spr_rpg_BackGround_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"86163b80-e79c-4875-8e14-49a6d7a0aa08","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
