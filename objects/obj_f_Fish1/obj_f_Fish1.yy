@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_f_Fish1",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_f_Fish1",
   "overriddenProperties":[],
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_f_Fish1",
+    "path":"sprites/spr_f_Fish1/spr_f_Fish1.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

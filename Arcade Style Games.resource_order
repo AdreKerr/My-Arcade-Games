@@ -10,7 +10,7 @@
     {"name":"Spy Hunter Sprites","order":1,"path":"folders/Sprites/Spy Hunter Sprites.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"obj_f_Fish2","order":1,"path":"objects/obj_f_Fish2/obj_f_Fish2.yy",},
+    {"name":"obj_f_Fishing_Rode","order":1,"path":"objects/obj_f_Fishing_Rode/obj_f_Fishing_Rode.yy",},
     {"name":"obj_f_Water","order":2,"path":"objects/obj_f_Water/obj_f_Water.yy",},
     {"name":"obj_sh_Road","order":1,"path":"objects/obj_sh_Road/obj_sh_Road.yy",},
     {"name":"obj_sh_RoadMaker","order":2,"path":"objects/obj_sh_RoadMaker/obj_sh_RoadMaker.yy",},
@@ -18,6 +18,7 @@
     {"name":"room_rpg_RPG","order":2,"path":"rooms/room_rpg_RPG/room_rpg_RPG.yy",},
     {"name":"room_s_Snake","order":1,"path":"rooms/room_s_Snake/room_s_Snake.yy",},
     {"name":"room_sp_Spy_Hunter","order":2,"path":"rooms/room_sp_Spy_Hunter/room_sp_Spy_Hunter.yy",},
+    {"name":"spr_f_Dock","order":4,"path":"sprites/spr_f_Dock/spr_f_Dock.yy",},
     {"name":"spr_f_Fish2","order":1,"path":"sprites/spr_f_Fish2/spr_f_Fish2.yy",},
     {"name":"spr_f_Fishing_Rode","order":2,"path":"sprites/spr_f_Fishing_Rode/spr_f_Fishing_Rode.yy",},
     {"name":"spr_f_Water","order":3,"path":"sprites/spr_f_Water/spr_f_Water.yy",},
@@ -25,7 +26,6 @@
     {"name":"spr_rpg_BackGround_1","order":1,"path":"sprites/spr_rpg_BackGround_1/spr_rpg_BackGround_1.yy",},
     {"name":"spr_sh_Grass","order":1,"path":"sprites/spr_sh_Grass/spr_sh_Grass.yy",},
     {"name":"spr_sh_Road","order":2,"path":"sprites/spr_sh_Road/spr_sh_Road.yy",},
-    {"name":"Sprite30","order":4,"path":"sprites/Sprite30/Sprite30.yy",},
     {"name":"Sprite31","order":3,"path":"sprites/Sprite31/Sprite31.yy",},
   ],
 }
