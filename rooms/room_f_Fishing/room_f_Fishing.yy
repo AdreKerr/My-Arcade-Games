@@ -1,5 +1,5 @@
 {
-  "$GMRoom":"",
+  "$GMRoom":"v1",
   "%Name":"room_f_Fishing",
   "creationCodeFile":"",
   "inheritCode":false,
